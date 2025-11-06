@@ -5,3 +5,5 @@ set(CMAKE_CXX_STANDARD 17)
 
 add_executable(two_sum "Easy/0001-Two-Sum/solution.cpp")
 add_executable(palindrome_number "Easy/0009-Palindrome-Number/solution.cpp")
+add_executable(roman_to_integer "Easy/0013-Roman-to-Integer/solution.cpp")
+add_executable(longest_common_prefix "Easy/0014-Longest-Common-Prefix/solution.cpp")
