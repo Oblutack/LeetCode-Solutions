@@ -10,3 +10,4 @@ add_executable(longest_common_prefix "Easy/0014-Longest-Common-Prefix/solution.c
 add_executable(valid_parentheses "Easy/0020-Valid-Parentheses/solution.cpp")
 add_executable(merge_two_sorted_lists "Easy/0021-Merge-Two-Sorted-Lists/solution.cpp")
 add_executable(remove_duplicates_from_sorted_array "Easy/0026-Remove-Duplicates-from-Sorted-Array/solution.cpp")
+add_executable(remove_elements "Easy/0027-Remove-Elemente/solution.cpp")
