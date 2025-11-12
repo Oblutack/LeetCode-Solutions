@@ -12,3 +12,5 @@ add_executable(merge_two_sorted_lists "Easy/0021-Merge-Two-Sorted-Lists/solution
 add_executable(remove_duplicates_from_sorted_array "Easy/0026-Remove-Duplicates-from-Sorted-Array/solution.cpp")
 add_executable(remove_elements "Easy/0027-Remove-Elemente/solution.cpp")
 add_executable(find_the-index_of_the_first_occurence_in_the_string "Easy/0028-Find-The-Index-Of-The-First-Occurence-In-The-String./solution.cpp")
+add_executable(search_insert_position "Easy/0035-Search-Insert-Position./solution.cpp")
+
