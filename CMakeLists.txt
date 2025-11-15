@@ -15,4 +15,5 @@ add_executable(find_the-index_of_the_first_occurence_in_the_string "Easy/0028-Fi
 add_executable(search_insert_position "Easy/0035-Search-Insert-Position./solution.cpp")
 add_executable(length_of_last_word "Easy/0058-Length-of-Last-Word./solution.cpp")
 add_executable(plus_one "Easy/0066-Plus-One./solution.cpp")
+add_executable(add-binary "Easy/0067-Add-Binary/solution.cpp")
 
