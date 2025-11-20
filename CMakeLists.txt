@@ -20,5 +20,6 @@ add_executable(sqrt "Easy/0069-sqrt/solution.cpp")
 add_executable(climbing_stairs "Easy/0070-Climbing-Stairs/solution.cpp")
 add_executable(remove_duplicates_from_sorted_list "Easy/0083-Remove-Duplicates-from-Sorted-List/solution.cpp")
 add_executable(merge_sorted_array "Easy/0088-Merge-Sorted-Array/solution.cpp")
+add_executable(binary_tree_inorder_traversal "Easy/0094-Binary-Tree-Inorder-Traversal/solution.cpp")
 
 
