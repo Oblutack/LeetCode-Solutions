@@ -23,5 +23,6 @@ add_executable(merge_sorted_array "Easy/0088-Merge-Sorted-Array/solution.cpp")
 add_executable(binary_tree_inorder_traversal "Easy/0094-Binary-Tree-Inorder-Traversal/solution.cpp")
 add_executable(same_tree "Easy/0100-Same-Tree/solution.cpp")
 add_executable(symmetric_tree "Easy/0101-Symmetric-Tree/solution.cpp")
+add_executable(maximum_depth_of_binary_tree "Easy/0104-Maximum-Depth-of-Binary-tree/solution.cpp")
 
 
