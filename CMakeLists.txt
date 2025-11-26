@@ -26,5 +26,6 @@ add_executable(symmetric_tree "Easy/0101-Symmetric-Tree/solution.cpp")
 add_executable(maximum_depth_of_binary_tree "Easy/0104-Maximum-Depth-of-Binary-tree/solution.cpp")
 add_executable(convert_sorrarr_to_binary "Easy/0108-Convert-SorrArr-to-Binary/solution.cpp")
 add_executable(balanced_binary_tree "Easy/0110-Balanced-Binary-Tree/solution.cpp")
+add_executable(minimum_depth_of_binary_tree "Easy/0111-Minimum-Depth-of-Binary-Tree/solution.cpp")
 
 
