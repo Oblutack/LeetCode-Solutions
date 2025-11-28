@@ -28,5 +28,6 @@ add_executable(convert_sorrarr_to_binary "Easy/0108-Convert-SorrArr-to-Binary/so
 add_executable(balanced_binary_tree "Easy/0110-Balanced-Binary-Tree/solution.cpp")
 add_executable(minimum_depth_of_binary_tree "Easy/0111-Minimum-Depth-of-Binary-Tree/solution.cpp")
 add_executable(path_sum "Easy/0112-Path-Sum/solution.cpp")
+add_executable(pascal's triangle "Easy/0118-Pascal's-Triangle/solution.cpp")
 
 
