@@ -33,5 +33,6 @@ add_executable(pascal's triangle II "Easy/0119-Pascal's-Triangle-II/solution.cpp
 add_executable(best_time_to_buy_and_sell_stock "Easy/0121-Best-Time-To-Buy-and-Sell-Stock/solution.cpp")
 add_executable(valid_palindrome "Easy/0125-Valid-Palindrome/solution.cpp")
 add_executable(single_number "Easy/0136-Single-Number/solution.cpp")
+add_executable(linked_list_cycle "Easy/0141-Linked-List-Cycle/solution.cpp")
 
 
