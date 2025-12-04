@@ -35,5 +35,6 @@ add_executable(valid_palindrome "Easy/0125-Valid-Palindrome/solution.cpp")
 add_executable(single_number "Easy/0136-Single-Number/solution.cpp")
 add_executable(linked_list_cycle "Easy/0141-Linked-List-Cycle/solution.cpp")
 add_executable(binary_tree_preorder_traversal "Easy/0144-Binary-Tree-Preorder-Traversal/solution.cpp")
+add_executable(intersection_of_two_linked_lists "Easy/0160-Intersection-of-Two-Linked-Lists/solution.cpp")
 
 
