@@ -37,5 +37,6 @@ add_executable(linked_list_cycle "Easy/0141-Linked-List-Cycle/solution.cpp")
 add_executable(binary_tree_preorder_traversal "Easy/0144-Binary-Tree-Preorder-Traversal/solution.cpp")
 add_executable(intersection_of_two_linked_lists "Easy/0160-Intersection-of-Two-Linked-Lists/solution.cpp")
 add_executable(excel_sheet_column_title "Easy/0168-Excel-Sheet-Column-Title/solution.cpp")
+add_executable(majority_element "Easy/0169-Majority-Element/solution.cpp")
 
 
