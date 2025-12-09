@@ -40,5 +40,6 @@ add_executable(excel_sheet_column_title "Easy/0168-Excel-Sheet-Column-Title/solu
 add_executable(majority_element "Easy/0169-Majority-Element/solution.cpp")
 add_executable(excel_sheet_column_number "Easy/0171-Excel-Sheet-Column-Number/solution.cpp")
 add_executable(reverse_bits "Easy/0190-Reverse-Bits/solution.cpp")
+add_executable(happy_number "Easy/0202-Happy-Number/solution.cpp")
 
 
