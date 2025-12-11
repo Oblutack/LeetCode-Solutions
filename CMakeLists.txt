@@ -42,5 +42,6 @@ add_executable(excel_sheet_column_number "Easy/0171-Excel-Sheet-Column-Number/so
 add_executable(reverse_bits "Easy/0190-Reverse-Bits/solution.cpp")
 add_executable(happy_number "Easy/0202-Happy-Number/solution.cpp")
 add_executable(remove_linked_list_elements "Easy/0203-Remove-Linked-List-Elements/solution.cpp")
+add_executable(isomorphic_strings "Easy/0205-Isomorphic-Strings/solution.cpp")
 
 
