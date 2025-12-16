@@ -47,6 +47,7 @@ add_executable(reversed_linked_list "Easy/0206-Reverse-Linked-List/solution.cpp"
 add_executable(contains_duplicate "Easy/0217-Contains-Duplicate/solution.cpp")
 add_executable(longest_consecutive_sequence "Easy/0128-Longest-Consecutive-Sequence/solution.cpp")
 add_executable(longest_substring_without_repeating_characters "Easy/0003-Longest-Substring-Without-Repeating-Characters/solution.cpp")
+add_executable(longest_palindromic_substring "Easy/0005-Longest-Palindromic-Substring/solution.cpp")
 
 
 
